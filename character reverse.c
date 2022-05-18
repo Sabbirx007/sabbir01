@@ -5,6 +5,7 @@ int main()
 
 {
     char alphabet;
+    int age;
 
 }
 
